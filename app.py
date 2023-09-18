@@ -49,9 +49,6 @@ def calculate():
         return render_template('result.html',results=average_marks)
 
 
-## Assignemnt Try for loop
-
-
 
        
 if __name__=="__main__":
